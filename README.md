@@ -6,9 +6,13 @@ https://github.com/Ractouf/3BIN-Q1-.NET/tree/main/semaine9
 package :
 ------- 
 Microsoft.EntityFrameworkCore
+
 Microsoft.EntityFrameworkCore.Design
+
 Microsoft.EntityFrameworkCore.Tools
+
 Microsoft.EntityFrameworkCore.SqlServer
+
 EntityFrameworkCore.Proxies
 
 
