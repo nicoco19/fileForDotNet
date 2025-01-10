@@ -1,10 +1,10 @@
-# fileForDotNet
+# FileForDotNet
 https://github.com/olivierchoquet/net_solutions
 
 https://github.com/Ractouf/3BIN-Q1-.NET/tree/main/semaine9
 
 
-package :
+Package :
 ------- 
 Microsoft.EntityFrameworkCore
 
@@ -17,7 +17,7 @@ Microsoft.EntityFrameworkCore.SqlServer
 EntityFrameworkCore.Proxies
 
 
-commande pour la création de DTO :
+Commande pour la création de DTO :
 --------------------------------- 
 
 Scaffold-DbContext -OutputDir Models 'Data Source=(localdb)\MSSQLLocalDB;Initial
