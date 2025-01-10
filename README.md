@@ -4,6 +4,11 @@ https://github.com/olivierchoquet/net_solutions
 https://github.com/Ractouf/3BIN-Q1-.NET/tree/main/semaine9
 
 
+Création DB : 
+-----------
+Outils –> SQL SERVER -> Nouvelle requête/query
+
+
 Package :
 ------- 
 Microsoft.EntityFrameworkCore
